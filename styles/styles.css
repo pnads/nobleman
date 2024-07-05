@@ -28,8 +28,24 @@ header {
 }
 
 footer {
-    background-color: #333;
+    background-color: #202D4D;
     color: white;
     text-align: center;
     padding: 10px 0;
+}
+
+.bg-dark-blue {
+    background-color: #202D4D !important;
+}
+
+.bg-almost-black {
+    background-color: #262931 !important;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+.nav-link {
+    color: white !important;
 }
